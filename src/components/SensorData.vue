@@ -169,7 +169,7 @@ export default {
 }
 
 h1 {
-  color: #333;
+  color: #FFFFFF;
   text-align: center;
   margin-bottom: 30px;
 }
