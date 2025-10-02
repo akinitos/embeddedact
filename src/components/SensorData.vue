@@ -64,7 +64,7 @@ export default {
       servoStatus: '',
       // Replace with the IP addresses of your devices
       serverUrl: 'https://corie-pareve-cruisingly.ngrok-free.dev/data',
-      nodeMcuUrl: 'http://172.20.3.161/servo'
+      nodeMcuUrl: 'http://172.20.19.252/servo'
     };
   },
   created() {
